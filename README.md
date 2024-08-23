@@ -11,7 +11,7 @@
 <h1>Hi, I'm Serly!  
   <a href="https://www.linkedin.com/in/serlysonam/">DevOps / AWS Professional</a></h1> 
   
-  [<img align="left" alt="Serly Sonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [linkedin]: https://www.linkedin.com/in/serlysonam/
 
 
