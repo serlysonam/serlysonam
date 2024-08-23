@@ -16,10 +16,10 @@
 
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Certifications:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>•	Amazon Web Services: AWS Certified Solutions Architect – Associate </b>
+  - [Pr](www.credly.com/badges/fbcd5fa6-b0b4-45a6-ade4-21df5b7a5002/linked_in_profile)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
