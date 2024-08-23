@@ -1,9 +1,10 @@
 ## Hi, I'm Serly! 👋
-<h1> <a href="https://www.linkedin.com/in/serlysonam/">DevOps / AWS Professional</a></h1> 
-  
 [<img align="left" alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/serlysonam
+[linkedin]: https://www.linkedin.com/in/serlysonam 
+<h1> <a href="https://www.linkedin.com/in/serlysonam/">DevOps / AWS Professional</a></h1> 
+  
+
 
 <h1>👩🏼‍🦰 About me:  </h1> 
 4.9 years experienced Cloud DevOps Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
@@ -17,11 +18,22 @@
 - <b>	WhiteHat Jr: [Basic, iOS and Android App Development](https://www.linkedin.com/in/serlysonam/overlay/honors/1830091792/multiple-media-viewer/?profileId=ACoAABANM5QBSLCjFP0bSqJ-XFLpQk-txa0qGoY&treasuryMediaId=1713374559423) </b>
 - <b> Honors Convocation: [Academic achievement award from University of Louisiana at Lafayette](https://www.linkedin.com/in/serlysonam/overlay/1713372799893/single-media-viewer/?profileId=ACoAABANM5QBSLCjFP0bSqJ-XFLpQk-txa0qGoY) </b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:  https://www.linkedin.com/in/serlysonam
-- ⚡ Fun fact: ...
--->
+<h2>🏆 Technologies:</h2>
+
+- <b>  Cloud Platforms:</b> Amazon Web Services, Microsoft Azure
+- <b> laC & Automation:</b> Terraform, Ansible
+- <b> CI/CD Tools:</b> Jenkins, GitLab, Udeploy, GitHub Actions
+- <b> Monitoring:</b> CloudWatch, Prometheus
+- <b> Virtualization & Containerization:</b> Docker, Kubernetes
+- <b> Language & Scripting:</b> Bash/Shell scripting, Java, Python, SQL, Unix
+- <b> Operating Systems:</b> Linux, Windows 
+- <b> Data Analytics tools & packages:</b> QuickSight, Pandas, Numpy, Matplotlib
+
+<h2>📫 How to reach me:</h2> 
+
+[<img align="left" alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="SerlySonam| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/serlysonam
+[instagram]: https://www.instagram.com/serly_sonam
