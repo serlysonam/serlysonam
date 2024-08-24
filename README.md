@@ -1,9 +1,8 @@
 ## Hi, I'm Serly! 👋
-[<img align="left" alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/serlysonam 
 <h1> <a href="https://www.linkedin.com/in/serlysonam/">DevOps / AWS Professional</a></h1> 
-  
+
+### Check my portfolio: [Serly Portfolio](https://serlysonam.github.io/Serly_Portfolio/)
 
 
 <h1>👩🏼‍🦰 About me:  </h1> 
