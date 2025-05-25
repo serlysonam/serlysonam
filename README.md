@@ -1,6 +1,6 @@
 ## Hi, I'm Serly! 👋
 
-<h1> <a href="https://www.linkedin.com/in/serlysonam/">DevOps / AWS Professional</a></h1> 
+<h1> <a href="https://www.linkedin.com/in/serlysonam/">DevOps / DATA / AWS Professional</a></h1> 
 
 ### Check my portfolio: [Serly Portfolio](https://serlysonam.github.io/Serly_Portfolio/)
 
