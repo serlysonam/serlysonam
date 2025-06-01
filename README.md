@@ -2,7 +2,9 @@
 
 <h1> <a href="https://www.linkedin.com/in/serlysonam/">DATA / DevOps / AWS Professional</a></h1> 
 
+<!--
 ### Check my portfolio: [Serly Portfolio](https://serlysonam.github.io/Serly_Portfolio/)
+-->
 
 
 <h1>👩🏼‍🦰 About me:  </h1> 
